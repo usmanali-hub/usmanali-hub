@@ -93,7 +93,7 @@ That background helps me bridge the gap between **data, systems, and decisions**
 ## Contact
 
 📧 **work.usmanali@gmail.com**  
-💼 [LinkedIn]([https://linkedin.com/in/usmanali](https://www.linkedin.com/in/usman-ali-economists/)
+💼 [LinkedIn][(https://www.linkedin.com/in/usman-ali-economists/)]
 
 ---
 
