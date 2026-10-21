@@ -2,7 +2,7 @@
 
 ### AI Engineer | LLM apps, RAG & agents | Cloud AI / MLOps | Finance & market analytics
 
-I build AI systems and ship them: LLM applications, retrieval-augmented generation, and agents, packaged with tests, Docker and CI/CD. I'm a BS Artificial Intelligence student at HITEC University (2027) with a background in market and economic analytics, workflow automation, and co-founding [ReplyPops](https://replypops.com).
+I build AI systems and ship them: LLM applications, retrieval-augmented generation, and agents, packaged with tests, Docker and CI/CD. I'm a BS Artificial Intelligence student at HITEC University with a background in market and economic analytics, workflow automation, and co-founding [ReplyPops](https://replypops.com).
 
 ## Featured projects
 
