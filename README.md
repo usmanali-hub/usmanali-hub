@@ -1,109 +1,48 @@
 # Usman Ali
 
-### Data & Financial Analytics | Python | SQL | Business Intelligence | AI/ML
+### AI Engineer | LLM apps, RAG & agents | Cloud AI / MLOps | Finance & market analytics
 
-I build practical analytics solutions that turn raw data into structured insights for business, financial, and operational decisions.
+I build AI systems and ship them: LLM applications, retrieval-augmented generation, and agents, packaged with tests, Docker and CI/CD. I'm a BS Artificial Intelligence student at HITEC University (2027) with a background in market and economic analytics, workflow automation, and co-founding [ReplyPops](https://replypops.com).
 
-My background spans software engineering, automation, trading technology, analytics, machine learning, and customer-facing operations. I use that combination to approach data problems from both a technical and business perspective.
-
-## Featured Analytics Portfolio
+## Featured projects
 
 | Project | Focus | Evidence |
 |---|---|---|
+| [python-llm-utils](https://github.com/usmanali-hub/python-llm-utils) | LLM application tooling | Typed message models, prompt templating, token estimation, client base class with usage tracking, tests |
+| [dsa-practice](https://github.com/usmanali-hub/dsa-practice) | Algorithms & data structures | Python solutions with approach, complexity analysis and tests |
 | [Macro Market Intelligence](https://github.com/usmanali-hub/Macro-Market-Intelligence) | Economic & financial analytics | Rates, inflation, GDP, unemployment, yield curve, macro regimes, SQL |
 | [Trading Risk & Performance](https://github.com/usmanali-hub/Trading-Risk-Performance) | Financial risk analytics | Drawdown, expectancy, tail risk, recovery factor, strategy/regime analysis |
 | [Customer Support Analytics](https://github.com/usmanali-hub/Customer-Support-Analytics) | Business & operations analytics | SLA, CSAT, response time, resolution time, escalations, ticket trends |
 
-## What I Analyze
+Analytics projects use public or synthetic data, make assumptions explicit, and separate observed relationships from causal claims.
 
-- **Financial & Economic Data** — macro indicators, market behavior, trading performance, risk and drawdowns
-- **Business Operations** — KPIs, customer experience, SLA performance, service demand and operational bottlenecks
-- **Time Series** — trends, momentum, frequency alignment, rolling metrics and period-over-period changes
-- **Segmentation** — channel, strategy, priority, issue type, market regime and other business dimensions
-- **Decision Support** — turning analysis into evidence, uncertainty, recommendations and next analytical questions
+## Currently exploring
 
-## My Analytical Workflow
+RAG systems, AI agents, model serving, and cloud deployment.
 
-```text
-Business Question
-       ↓
-Data Collection
-       ↓
-Validation & Cleaning
-       ↓
-Metric Design
-       ↓
-Segmentation
-       ↓
-Statistical / Trend Analysis
-       ↓
-Evidence & Uncertainty
-       ↓
-Decision Support
-```
+## Stack
 
-I don't treat a dashboard as the final answer. The goal is to explain **what changed, where it changed, how material it is, what relationships are visible, what cannot be concluded, and what should be investigated next.**
+- **AI / ML:** Python, PyTorch, TensorFlow, scikit-learn, LLM APIs
+- **Data:** pandas, NumPy, SQL, time-series and KPI analysis
+- **Engineering:** Git, GitHub Actions, REST APIs, n8n workflow automation
+- **Cloud / DevOps:** AWS (certificate: Introduction to Agentic AI on AWS)
 
-## Core Tools
+## Experience highlights
 
-**Analytics:** Python, pandas, NumPy, SQL, Matplotlib  
-**Data Work:** Cleaning, validation, transformation, feature engineering, time-series analysis, KPI analysis, segmentation  
-**Financial Analytics:** Risk analysis, performance analytics, macroeconomic analysis, trading analytics  
-**Engineering:** Git, GitHub, GitHub Actions, REST APIs, automation  
-**AI/ML:** Scikit-learn, TensorFlow, PyTorch, predictive modeling
+- **Co-founder, ReplyPops** - co-built the product end to end
+- **AI Specialist Intern, Glaxit** - ML/AI workflows
+- **Data Analyst & Research Intern, Ecoservants**
+- **Workflow automation (freelance)** - n8n, including an AI lead-scoring and routing system
 
-## Portfolio Highlights
+## Open to
 
-### Macro Market Intelligence
-
-A reproducible economic-analysis pipeline that transforms public macroeconomic data into structured market context. It covers interest rates, inflation, unemployment, GDP, Treasury yields, momentum, standardized indicators, heuristic macro regimes, correlation analysis, SQL queries, and executive reporting.
-
-**Pipeline:** `Public Economic Data → Validation → Frequency Alignment → Derived Metrics → Analysis → SQL → Reporting`
-
-### Trading Risk & Performance
-
-A trade-level analytics project focused on performance quality rather than headline returns. It evaluates expectancy, win rate, profit factor, drawdown, tail loss, recovery factor, concentration, strategy contribution, session behavior, and market-regime performance using synthetic data.
-
-**Pipeline:** `Trade Data → Validation → Performance Metrics → Risk Analysis → Segmentation → SQL → Reporting`
-
-### Customer Support Analytics
-
-A business-operations analytics project measuring demand, service quality, and customer experience. It analyzes ticket volume, SLA attainment, first-response time, resolution time, CSAT, escalations, reopen rates, channels, priorities, issue types, and team performance using synthetic data.
-
-**Pipeline:** `Support Data → Validation → KPI Calculation → Segmentation → SQL → Reporting → Recommendations`
-
-## Professional Focus
-
-I am interested in opportunities across:
-
-- **Data Analyst**
-- **Business Analyst**
-- **Financial Analyst**
-- **Analytics Engineer**
-- **AI/ML Analytics**
-
-I am particularly interested in roles where analytical thinking, technical execution, financial/business context, and clear communication come together.
-
-## About My Background
-
-AI/ML and backend engineering experience across software development, automation, trading technology, analytics, and production systems, combined with hands-on exposure to customer-facing operational workflows.
-
-That background helps me bridge the gap between **data, systems, and decisions**.
+AI Engineer, ML/LLM Engineer, and Cloud AI / MLOps roles, remote-friendly. Also analytics roles where finance or business context matters.
 
 ## Contact
 
-📧 **work.usmanali@gmail.com**  
+📧 work.usmanali@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/usman-ali-economists/)
 
 ---
 
-### Portfolio principles
-
-- Use public or synthetic data where appropriate
-- Make analytical assumptions explicit
-- Separate observed relationships from causal claims
-- Prioritize reproducibility
-- Communicate uncertainty
-- Connect metrics to decisions
-
-*Portfolio projects are for analytical demonstration and do not constitute investment advice.*
+*Analytics projects are for demonstration and do not constitute investment advice.*
