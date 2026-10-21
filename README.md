@@ -10,6 +10,7 @@ I build AI systems and ship them: LLM applications, retrieval-augmented generati
 |---|---|---|
 | [python-llm-utils](https://github.com/usmanali-hub/python-llm-utils) | LLM application tooling | Typed message models, prompt templating, token estimation, client base class with usage tracking, tests |
 | [dsa-practice](https://github.com/usmanali-hub/dsa-practice) | Algorithms & data structures | Python solutions with approach, complexity analysis and tests |
+| [ai-engineering-notes](https://github.com/usmanali-hub/ai-engineering-notes) | Python & AI engineering notes | Tested mini-labs: typed config, retry/timing decorators, streaming chunks, strict typing |
 | [Macro Market Intelligence](https://github.com/usmanali-hub/Macro-Market-Intelligence) | Economic & financial analytics | Rates, inflation, GDP, unemployment, yield curve, macro regimes, SQL |
 | [Trading Risk & Performance](https://github.com/usmanali-hub/Trading-Risk-Performance) | Financial risk analytics | Drawdown, expectancy, tail risk, recovery factor, strategy/regime analysis |
 | [Customer Support Analytics](https://github.com/usmanali-hub/Customer-Support-Analytics) | Business & operations analytics | SLA, CSAT, response time, resolution time, escalations, ticket trends |
