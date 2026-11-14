@@ -37,25 +37,13 @@
 
 ### At a Glance
 
-```python
-class UsmanAli:
-    def __init__(self):
-        self.role            = "AI Engineer"
-        self.degree          = "BS in Artificial Intelligence @ HITEC University"
-        self.experience      = "Co-founder @ ReplyPops | AI Intern @ Glaxit | Data Analyst @ EcoServants"
-        self.specializations = ["Hybrid RAG (BM25 + Dense)", "Agentic Systems", "LLM Evals", "MLOps Pipelines"]
-        self.stack           = ["Python", "PyTorch", "FastAPI", "Docker", "PostgreSQL", "GitHub Actions"]
-        self.location        = "USA"
-        self.open_for        = "AI / LLM Engineer, MLOps, & Applied AI roles (Remote / Global)"
+AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval-Augmented Generation (RAG)**, and **Autonomous Agent Architectures** with production-grade MLOps.
 
-    def philosophy(self):
-        return "Reliability over hype: test every assumption, benchmark every embedding, containerize every pipeline."
-```
-
-- **Currently Building**: Next-gen autonomous agent architectures and production-grade RAG evaluation harnesses with strict statistical rigor.
-- **Startup Execution**: Co-founded ReplyPops, shipping customer-facing AI pipelines and workflow automations from zero to launch.
-- **Quantitative Depth**: Strong analytical background combining macroeconomics (FRED API), quantitative trading risk, and statistical regime detection.
-- **Engineering Standards**: Strict typing (Pydantic), comprehensive unit/integration testing (Pytest), Dockerization, and automated CI/CD checks.
+- **Background**: BS in Artificial Intelligence at HITEC University; Co-founder at **ReplyPops**, with applied AI and analytics experience at **Glaxit** and **EcoServants**.
+- **Core Focus**: Production LLM applications, dense & sparse (BM25) hybrid retrieval systems, and multi-agent workflows backed by empirical evaluation.
+- **Quantitative Depth**: Macroeconomic regime intelligence (FRED data), financial risk metrics (drawdown, expectancy, VaR), and operational KPI analytics.
+- **Engineering Rigor**: Type-safe architectures (Pydantic), comprehensive test coverage (Pytest), Docker containerization, and automated CI/CD pipelines.
+- **Availability**: Actively open to AI Engineer, LLM/GenAI Engineer, and MLOps opportunities (Remote / Global).
 
 ---
 
