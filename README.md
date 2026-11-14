@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E293B,60:2563EB,100:7C3AED&height=230&section=header&text=Usman%20Ali&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20RAG%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20MLOps&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Usman Ali Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E293B,60:2563EB,100:7C3AED&height=230&section=header&text=Usman%20Ali&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%7C%20Autonomous%20Agents%20%7C%20MLOps&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Usman Ali Banner" />
 
-  <!-- Dynamic Typing SVG Animation -->
+  <!-- Typing SVG Animation -->
   <a href="https://github.com/usmanali-hub">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Production+LLMs+%26+RAG+Systems;Architecting+Autonomous+Multi-Agent+Workflows;End-to-End+MLOps+%7C+Docker%2C+FastAPI+%26+CI%2FCD;Quantitative+Macro+Market+%26+Trading+Risk+Analytics;Reliability+%3E+Hype%3A+Every+Pipeline+Tested+%26+Evaluated" alt="Typing SVG" />
   </a>
@@ -12,7 +12,7 @@
     <b>Architecting robust AI solutions with rigorous empirical evaluation, typed system design, and production MLOps.</b>
   </p>
 
-  <!-- Interactive Social & Profile Badges -->
+  <!-- Profile & Social Links -->
   <p align="center">
     <a href="https://www.linkedin.com/in/usman-ali-ai-engineer/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚡ At a Glance
+### At a Glance
 
 ```python
 class UsmanAli:
@@ -52,14 +52,14 @@ class UsmanAli:
         return "Reliability over hype: test every assumption, benchmark every embedding, containerize every pipeline."
 ```
 
-- 🔭 **Currently Building**: Next-gen autonomous agent architectures and production-grade RAG evaluation harnesses with strict statistical rigor.
-- 💼 **Startup Execution**: Co-founded **ReplyPops**, shipping customer-facing AI pipelines and workflow automations from zero to launch.
-- 📈 **Quantitative Depth**: Strong analytical background combining macroeconomics (FRED API), quantitative trading risk, and statistical regime detection.
-- 🧪 **Engineering Standards**: Strict typing (Pydantic), comprehensive unit/integration testing (Pytest), Dockerization, and automated CI/CD checks.
+- **Currently Building**: Next-gen autonomous agent architectures and production-grade RAG evaluation harnesses with strict statistical rigor.
+- **Startup Execution**: Co-founded ReplyPops, shipping customer-facing AI pipelines and workflow automations from zero to launch.
+- **Quantitative Depth**: Strong analytical background combining macroeconomics (FRED API), quantitative trading risk, and statistical regime detection.
+- **Engineering Standards**: Strict typing (Pydantic), comprehensive unit/integration testing (Pytest), Dockerization, and automated CI/CD checks.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Toolkit
+### Tech Stack & Engineering Toolkit
 
 <div align="center">
 
@@ -72,7 +72,7 @@ class UsmanAli:
 
 <br/>
 
-<!-- Modern Skill Icons Matrix -->
+<!-- Skill Icons Matrix -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,githubactions,aws,git,linux,bash,html,css&theme=dark" alt="Skill Icons" />
 </a>
@@ -81,14 +81,14 @@ class UsmanAli:
 
 ---
 
-### 🏆 Flagship Projects & Engineering Portfolio
+### Featured Repositories & Engineering Portfolio
 
-#### 🤖 Generative AI & Autonomous Agent Systems
+#### Generative AI & Autonomous Agent Systems
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/rag-knowledge-assistant">🔍 rag-knowledge-assistant</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/rag-knowledge-assistant">rag-knowledge-assistant</a></h4>
       <img src="https://img.shields.io/badge/LangChain-RAG-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Eval-Recall%40k%20%7C%20MRR-brightgreen?style=flat-square" />
       <p><b>Hybrid Retrieval & Evaluation Harness</b></p>
@@ -100,7 +100,7 @@ class UsmanAli:
       <a href="https://github.com/usmanali-hub/rag-knowledge-assistant"><b>Explore Repository →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/python-llm-utils">⚙️ python-llm-utils</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/python-llm-utils">python-llm-utils</a></h4>
       <img src="https://img.shields.io/badge/Python-Pydantic-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Tooling-Production%20Ready-orange?style=flat-square" />
       <p><b>Production LLM Infrastructure & Tooling</b></p>
@@ -112,7 +112,7 @@ class UsmanAli:
       <a href="https://github.com/usmanali-hub/python-llm-utils"><b>Explore Repository →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/llm-playground-evals">🧪 llm-playground-evals</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/llm-playground-evals">llm-playground-evals</a></h4>
       <img src="https://img.shields.io/badge/Evaluation-Benchmarking-purple?style=flat-square" />
       <img src="https://img.shields.io/badge/LLMs-Prompt%20Testing-green?style=flat-square" />
       <p><b>Deterministic LLM Evaluation Framework</b></p>
@@ -126,12 +126,12 @@ class UsmanAli:
   </tr>
 </table>
 
-#### 📊 Production Machine Learning & Data Engineering
+#### Production Machine Learning & Data Engineering
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/ml-end-to-end">🚀 ml-end-to-end</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/ml-end-to-end">ml-end-to-end</a></h4>
       <img src="https://img.shields.io/badge/Scikit--Learn-ML-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Pipeline-End--to--End-green?style=flat-square" />
       <p><b>Production ML Churn Modeling Lifecycle</b></p>
@@ -143,7 +143,7 @@ class UsmanAli:
       <a href="https://github.com/usmanali-hub/ml-end-to-end"><b>Explore Repository →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/data-analysis-pipeline">🧹 data-analysis-pipeline</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/data-analysis-pipeline">data-analysis-pipeline</a></h4>
       <img src="https://img.shields.io/badge/Pandas-ETL-yellow?style=flat-square" />
       <img src="https://img.shields.io/badge/Tests-70%2B%20Passing-brightgreen?style=flat-square" />
       <p><b>Industrial-Grade Data Cleaning & ETL</b></p>
@@ -155,7 +155,7 @@ class UsmanAli:
       <a href="https://github.com/usmanali-hub/data-analysis-pipeline"><b>Explore Repository →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/sql-analytics-project">🗄️ sql-analytics-project</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/sql-analytics-project">sql-analytics-project</a></h4>
       <img src="https://img.shields.io/badge/SQL-DuckDB%20%7C%20Postgres-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Modeling-CTEs%20%26%20Windows-red?style=flat-square" />
       <p><b>Advanced SQL & Business Intelligence</b></p>
@@ -169,12 +169,12 @@ class UsmanAli:
   </tr>
 </table>
 
-#### 📈 Quantitative Finance & Macro Intelligence
+#### Quantitative Finance & Macro Intelligence
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/Macro-Market-Intelligence">🌐 Macro-Market-Intelligence</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/Macro-Market-Intelligence">Macro-Market-Intelligence</a></h4>
       <img src="https://img.shields.io/badge/FRED-Macro%20Data-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Analysis-Regime%20Shifts-teal?style=flat-square" />
       <p><b>Macroeconomic Regime Shift Intelligence</b></p>
@@ -185,7 +185,7 @@ class UsmanAli:
       <a href="https://github.com/usmanali-hub/Macro-Market-Intelligence"><b>Explore Repository →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/Trading-Risk-Performance">📉 Trading-Risk-Performance</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/Trading-Risk-Performance">Trading-Risk-Performance</a></h4>
       <img src="https://img.shields.io/badge/Finance-Risk%20Analytics-red?style=flat-square" />
       <img src="https://img.shields.io/badge/Metrics-Drawdown%20%7C%20VaR-yellow?style=flat-square" />
       <p><b>Portfolio Risk & Expectancy Analytics</b></p>
@@ -196,7 +196,7 @@ class UsmanAli:
       <a href="https://github.com/usmanali-hub/Trading-Risk-Performance"><b>Explore Repository →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://github.com/usmanali-hub/Customer-Support-Analytics">📊 Customer-Support-Analytics</a></h4>
+      <h4><a href="https://github.com/usmanali-hub/Customer-Support-Analytics">Customer-Support-Analytics</a></h4>
       <img src="https://img.shields.io/badge/Analytics-Operations%20KPIs-blue?style=flat-square" />
       <img src="https://img.shields.io/badge/Domain-SLA%20%26%20CSAT-green?style=flat-square" />
       <p><b>Support Operations & KPI Analytics</b></p>
@@ -211,7 +211,30 @@ class UsmanAli:
 
 ---
 
-### 📊 Live GitHub Activity & Analytics
+### Licenses & Certifications
+
+| Certification | Issuing Organization | Verification |
+| :--- | :--- | :--- |
+| **Introduction to Agentic AI on AWS** | Amazon Web Services (AWS) | [Verify Credential](https://www.linkedin.com/in/usman-ali-ai-engineer/overlay/Certifications/1508860802/treasury/?profileId=ACoAAGDbKSIBRPt8lFdoLA1zEMCtoDg-xx6R6BI) |
+| **AI Fundamentals: Foundations for Understanding AI** | IBM | [Verify Credential](https://www.credly.com/badges/578872e8-b716-4ce9-8f52-9d6237ad8322/linked_in_profile) |
+| **Intro to Deep Learning** | Kaggle | [Verify Credential](https://www.kaggle.com/learn/certification/usmanaliiii/intro-to-deep-learning) |
+| **Intermediate Machine Learning** | Kaggle | [Verify Credential](https://www.kaggle.com/learn/certification/usmanaliiii/intermediate-machine-learning) |
+| **Intro to Machine Learning** | Kaggle | [Verify Credential](https://www.kaggle.com/learn/certification/usmanaliiii/intro-to-machine-learning) |
+| **Google Advanced Data Analytics Capstone** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/3WIUHHRHSZL5) |
+| **Maximize Productivity With AI Tools** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/FL3PTWE6IKSV) |
+| **Use AI Responsibly** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/LUED8TRGU65K) |
+| **Discover the Art of Prompting** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/YB471Q67744M) |
+| **The Nuts and Bolts of Machine Learning** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/DC0SH9ZL9DEG) |
+| **Stay Ahead of the AI Curve** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/NFITPRDC6E0H) |
+| **Introduction to AI** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/8KF6DZ4K8TV9) |
+| **Start Writing Prompts like a Pro** | Coursera | [Verify Credential](https://www.coursera.org/account/accomplishments/records/9W9GDR5M93VX) |
+| **Foundations of Project Management** | Coursera | [Verify Credential](https://www.coursera.org/account/accomplishments/records/ZZBQCCGNVT5W) |
+| **Certificate of Completion: Market Structure & Risk Management** | Instant Funding | [Verify Credential](https://instantfunding.com) |
+| **Certificate of Completion: Market Structure & Risk Management** | Maven Trading | [Verify Credential](https://maventrading.com) |
+
+---
+
+### GitHub Activity & Analytics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -234,25 +257,25 @@ class UsmanAli:
 
 ---
 
-### 💼 Experience & Leadership Journey
+### Experience & Leadership
 
 ```markdown
-├── 🚀 Co-founder @ ReplyPops
+├── Co-founder | ReplyPops
 │   └── Built product architecture end-to-end, driving AI automations and customer workflow execution.
-├── 🤖 AI Specialist Intern @ Glaxit
+├── AI Specialist Intern | Glaxit
 │   └── Researched, implemented, and evaluated production-ready machine learning workflows and LLM pipelines.
-├── 📊 Data Analyst & Research Intern @ EcoServants
+├── Data Analyst & Research Intern | EcoServants
 │   └── Directed quantitative data analysis, environmental metrics tracking, and business intelligence models.
-└── ⚡ Workflow Automation Consultant (Freelance)
+└── Workflow Automation Consultant | Freelance
     └── Designed autonomous AI lead-scoring systems and automated CRM routing architectures using n8n.
 ```
 
 ---
 
-### 📚 Expandable Technical Deep Dives
+### Technical Notes & Practice
 
 <details>
-<summary><b>🔬 View Engineering Mini-Labs & DSA Practice</b></summary>
+<summary><b>View Engineering Mini-Labs & DSA Practice</b></summary>
 
 <br/>
 
@@ -261,22 +284,11 @@ class UsmanAli:
 
 </details>
 
-<details>
-<summary><b>📜 View Certifications & Academic Credentials</b></summary>
-
-<br/>
-
-- **BS in Artificial Intelligence** — HITEC University *(Core: Deep Learning, Natural Language Processing, Computer Vision, Algorithms, Statistics)*
-- **AWS Certificate**: *Introduction to Agentic AI on AWS*
-- **Ongoing Explorations**: Distributed LLM inference, autonomous multi-agent consensus protocols, and Cloud MLOps deployment.
-
-</details>
-
 ---
 
-### 🤝 Let's Connect & Build
+### Connect & Collaborate
 
-I'm actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **MLOps** roles (Remote / Hybrid / On-site). If you have an exciting AI initiative, a challenging engineering problem, or want to collaborate on open-source systems, let's talk!
+I am actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **MLOps** roles (Remote / Hybrid / On-site). If you have an exciting AI initiative, a challenging engineering problem, or want to collaborate on open-source systems, feel free to reach out.
 
 <div align="center">
 
