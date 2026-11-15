@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E293B,60:2563EB,100:7C3AED&height=230&section=header&text=Usman%20Ali&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%7C%20Autonomous%20Agents%20%7C%20MLOps&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Usman Ali Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E293B,60:2563EB,100:7C3AED&height=230&section=header&text=Usman%20Ali&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=Co-Founder%20%26%20CTO%20%40%20ReplyPops%20%7C%20AI%20Engineer%20%7C%20ML%20%26%20Deep%20Learning%20%7C%20Forward%20Deployed&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Usman Ali Banner" />
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/usmanali-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Production+LLMs+%26+RAG+Systems;Architecting+Autonomous+Multi-Agent+Workflows;End-to-End+MLOps+%7C+Docker%2C+FastAPI+%26+CI%2FCD;Quantitative+Macro+Market+%26+Trading+Risk+Analytics;Reliability+%3E+Hype%3A+Every+Pipeline+Tested+%26+Evaluated" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Co-Founder+%26+CTO+%40+ReplyPops;AI+Engineer+%7C+Production+LLMs+%26+RAG+Systems;Machine+Learning+%26+Deep+Learning+Engineer;Automation+%26+Forward+Deployed+Engineer;Architecting+Autonomous+Multi-Agent+Workflows" alt="Typing SVG" />
   </a>
 
   <!-- Ambient Moving Neural Particle Field -->
@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/Gmail-work.usmanali-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://replypops.com" target="_blank">
-      <img src="https://img.shields.io/badge/Co--founder-ReplyPops-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="ReplyPops" />
+      <img src="https://img.shields.io/badge/Co--Founder%20%26%20CTO-ReplyPops-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="ReplyPops" />
     </a>
     <a href="https://github.com/usmanali-hub?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-15%2B%20Projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
@@ -54,13 +54,13 @@
 <table>
   <tr>
     <td width="64%" valign="top">
-      <p>AI Engineer specializing in <b>Large Language Models (LLMs)</b>, <b>Hybrid Retrieval-Augmented Generation (RAG)</b>, and <b>Autonomous Agent Architectures</b> with production-grade MLOps.</p>
+      <p><b>Co-Founder & CTO @ ReplyPops</b> | AI Engineer | Machine Learning & Deep Learning Engineer | Automation & Forward Deployed Engineer specializing in <b>Large Language Models (LLMs)</b>, <b>Hybrid Retrieval-Augmented Generation (RAG)</b>, and <b>Autonomous Agent Architectures</b> with production MLOps.</p>
       <ul>
-        <li><b>Background</b>: BS in Artificial Intelligence at HITEC University; Co-founder at <b>ReplyPops</b>, with applied AI and analytics experience at <b>Glaxit</b> and <b>EcoServants</b>.</li>
+        <li><b>Leadership & Background</b>: Co-Founder & CTO at <b>ReplyPops</b>; BS in Artificial Intelligence at HITEC University; Applied AI and analytics experience at <b>Glaxit</b> and <b>EcoServants</b>.</li>
         <li><b>Core Focus</b>: Production LLM applications, dense & sparse (BM25) hybrid retrieval systems, and multi-agent workflows backed by empirical evaluation.</li>
         <li><b>Quantitative Depth</b>: Macroeconomic regime intelligence (FRED data), financial risk metrics (drawdown, expectancy, VaR), and operational KPI analytics.</li>
         <li><b>Engineering Rigor</b>: Type-safe architectures (Pydantic), comprehensive test coverage (Pytest), Docker containerization, and automated CI/CD pipelines.</li>
-        <li><b>Availability</b>: Actively open to AI Engineer, LLM/GenAI Engineer, and MLOps opportunities (Remote / Global).</li>
+        <li><b>Availability</b>: Open to AI Engineer, LLM/GenAI Engineer, and MLOps opportunities (Remote / Global).</li>
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
@@ -249,7 +249,7 @@
 ### Experience & Leadership
 
 ```markdown
-├── Co-founder | ReplyPops
+├── Co-Founder & CTO | ReplyPops
 │   └── Built product architecture end-to-end, driving AI automations and customer workflow execution.
 ├── Technical Director | Mega Code War 4.0 (HITEC University)
 │   └── Led challenge architecture, platform stability, and programming contest operations.
