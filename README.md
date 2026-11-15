@@ -5,7 +5,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/usmanali-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Co-Founder+%26+CTO+%40+ReplyPops;AI+Engineer+%7C+Production+LLMs+%26+RAG+Systems;Machine+Learning+%26+Deep+Learning+Engineer;Automation+%26+Forward+Deployed+Engineer;Architecting+Autonomous+Multi-Agent+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Python+Platform+Engineer+%7C+AI+Engineer;Co-Founder+%26+CTO+%40+ReplyPops;Forward+Deployed+Engineer+%40+XEN+Groups;LLM+Systems%2C+RAG+%26+Autonomous+Agents;Building+Scalable+Multi-Agent+Automation+Pipelines" alt="Typing SVG" />
   </a>
 
   <!-- Ambient Moving Neural Particle Field -->
@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-    <b>Architecting robust AI solutions with rigorous empirical evaluation, typed system design, and production MLOps.</b>
+    <b>Python Platform Engineer · AI Engineer · LLM Systems & Automation</b>
   </p>
 
   <!-- Interactive Badges Strip -->
@@ -22,8 +22,11 @@
     <a href="https://usmanali-hub.github.io/Ai-portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
     </a>
+    <a href="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/main/Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-Download%20PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    </a>
     <a href="https://usmanali-hub.github.io/Ai-portfolio/cv/" target="_blank">
-      <img src="https://img.shields.io/badge/Interactive%20CV-View%20Resume-7C3AED?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interactive CV" />
+      <img src="https://img.shields.io/badge/Interactive%20CV-View%20Online-7C3AED?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interactive CV" />
     </a>
     <a href="https://www.linkedin.com/in/usman-ali-ai-engineer/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -34,11 +37,8 @@
     <a href="https://replypops.com" target="_blank">
       <img src="https://img.shields.io/badge/Co--Founder%20%26%20CTO-ReplyPops-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="ReplyPops" />
     </a>
-    <a href="https://github.com/usmanali-hub?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-15%2B%20Projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-    </a>
     <a href="https://github.com/usmanali-hub">
-      <img src="https://img.shields.io/badge/Contributions-402%20in%20Last%20Year-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="402 Contributions" />
+      <img src="https://img.shields.io/badge/Contributions-404%20in%20Last%20Year-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="404 Contributions" />
     </a>
     <a href="https://komarev.com/ghpvc/?username=usmanali-hub">
       <img src="https://komarev.com/ghpvc/?username=usmanali-hub&label=PROFILE+VIEWS&style=for-the-badge&color=0284C7" alt="Profile Views" />
@@ -54,13 +54,14 @@
 <table>
   <tr>
     <td width="64%" valign="top">
-      <p><b>Co-Founder & CTO @ ReplyPops</b> | AI Engineer | Machine Learning & Deep Learning Engineer | Automation & Forward Deployed Engineer specializing in <b>Large Language Models (LLMs)</b>, <b>Hybrid Retrieval-Augmented Generation (RAG)</b>, and <b>Autonomous Agent Architectures</b> with production MLOps.</p>
+      <p><b>Co-Founder & CTO @ ReplyPops</b> · <b>Forward Deployed Engineer @ XEN Groups</b> · <b>AI Engineer</b></p>
+      <p>Specializing in <b>Python Platform Engineering</b>, <b>LLM Systems & Automation</b>, and <b>Autonomous Multi-Agent Architectures</b> with production MLOps.</p>
       <ul>
-        <li><b>Leadership & Background</b>: Co-Founder & CTO at <b>ReplyPops</b>; BS in Artificial Intelligence at HITEC University; Applied AI and analytics experience at <b>Glaxit</b> and <b>EcoServants</b>.</li>
-        <li><b>Core Focus</b>: Production LLM applications, dense & sparse (BM25) hybrid retrieval systems, and multi-agent workflows backed by empirical evaluation.</li>
-        <li><b>Quantitative Depth</b>: Macroeconomic regime intelligence (FRED data), financial risk metrics (drawdown, expectancy, VaR), and operational KPI analytics.</li>
-        <li><b>Engineering Rigor</b>: Type-safe architectures (Pydantic), comprehensive test coverage (Pytest), Docker containerization, and automated CI/CD pipelines.</li>
-        <li><b>Availability</b>: Open to AI Engineer, LLM/GenAI Engineer, and MLOps opportunities (Remote / Global).</li>
+        <li><b>Location & Status</b>: Islamabad, Pakistan · Open to Remote (Global).</li>
+        <li><b>Startup Impact</b>: Architecting AI development for ReplyPops; designed the core AI automation layer cutting manual workflow steps by over <b>70%</b> across 100+ stress-tested scenarios.</li>
+        <li><b>Forward Deployed Engineering</b>: Shipped production AI automation solutions for 5+ clients at XEN Groups, reducing manual processing time by an average of <b>60%</b> per workflow with 99%+ uptime.</li>
+        <li><b>RAG & Latency Engineering</b>: Built RAG pipelines with FAISS, Chroma, and Pinecone improving retrieval accuracy by <b>35%+</b>; achieved sub-500ms inference latency through optimized API integrations.</li>
+        <li><b>Academic Honors</b>: BS in Artificial Intelligence @ HITEC University · <b>Winner, Code Battle 2.0</b> (InnoNerds Hackathon) · <b>Hackathon Winner</b> (HITEC University).</li>
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
@@ -71,25 +72,69 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
-### Tech Stack & Engineering Toolkit
+### Technical Skills
 
 <div align="center">
 
-| Ecosystem | Tools, Frameworks & Infrastructure |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Generative AI & LLMs** | `LangChain` `LangGraph` `LlamaIndex` `RAG Pipelines` `OpenAI API` `Anthropic API` `Hugging Face` `ChromaDB` `Pinecone` `Qdrant` `Prompt Engineering` |
-| **Machine Learning & Data** | `Python` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `DuckDB` `PostgreSQL` `SQLite` `FRED API` |
-| **APIs, Backend & Automation** | `FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `n8n Cloud` `HTML5 / CSS3 / JS` |
-| **DevOps, Cloud & Tooling** | `Docker` `GitHub Actions (CI/CD)` `Git` `Linux / Bash` `AWS (Agentic AI Certified)` `Pytest` |
+| **Languages** | `Python` `C++` `SQL` `JavaScript` `PHP` |
+| **AI / Machine Learning** | `LLMs` `Multi-Agent Systems` `RAG` `Prompt Engineering` `PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face Transformers` `LangChain` `NLP` `Computer Vision` `Deep Learning` |
+| **Backend & APIs** | `FastAPI` `REST APIs` `Distributed Systems` `Data Pipelines` `Workflow Automation` `Pydantic` `SQLAlchemy` |
+| **Infrastructure & DevOps** | `Docker` `Kubernetes` `Git` `GitHub Actions (CI/CD)` `n8n Cloud` `Linux / Bash` `Google Workspace` |
+| **Data & Vector Stores** | `Pandas` `NumPy` `Vector Databases (FAISS, Chroma, Pinecone)` `Semantic Search` `Time-Series Analysis` `Statistical Analysis` `Data Visualisation` |
 
 <br/>
 
 <!-- Skill Icons Matrix -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,githubactions,aws,git,linux,bash,html,css&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,kubernetes,githubactions,git,linux,bash,js,php,html,css&theme=dark" alt="Skill Icons" />
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
+
+### Enterprise Multi-Agent AI Automations & Orchestration Suite
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI Support Ticket Triage Pipeline</h4>
+      <img src="https://img.shields.io/badge/n8n-Cloud%20Workflow-EA580C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Model-Claude%203.5%20Sonnet-6366F1?style=flat-square" />
+      <p>Multi-agent support operations automation with real-time urgency scoring, customer sentiment classification, automated routing, and urgent Gmail alerting.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI Lead Scoring &amp; SDR Routing</h4>
+      <img src="https://img.shields.io/badge/CRM-Automation-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Scoring-0--100%20Intent-green?style=flat-square" />
+      <p>Automated lead qualification pipeline evaluating incoming prospect intent on a 0–100 scale, enriching lead profiles, and dispatching directly to sales reps.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI Job Candidate Qualifier</h4>
+      <img src="https://img.shields.io/badge/HR%20Tech-Resume%20Parser-purple?style=flat-square" />
+      <img src="https://img.shields.io/badge/Schedule-Daily%20Cron-teal?style=flat-square" />
+      <p>Automated recruitment screening system parsing unstructured candidate resumes, matching technical competencies, and assigning 1–10 role fit scores.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Citation-Backed FAQ Answer Bot</h4>
+      <img src="https://img.shields.io/badge/RAG-Anti--Hallucination-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Fallback-Human%20Escalation-yellow?style=flat-square" />
+      <p>Knowledge retrieval bot with explicit row-level source citations, strict hallucination guardrails, and automated human-in-the-loop escalation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>AI Content Repurposing Pipeline</h4>
+      <img src="https://img.shields.io/badge/RSS-Automated%20Ingestion-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Omnichannel-LinkedIn%20%7C%20X%20%7C%20Newsletter-orange?style=flat-square" />
+      <p>Autonomous publishing workflow ingesting daily technical RSS feeds and synthesizing formatted LinkedIn posts, tweets, and newsletter blurbs.</p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
@@ -187,12 +232,12 @@
   <tr>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/usmanali-hub/Macro-Market-Intelligence">Macro-Market-Intelligence</a></h4>
-      <img src="https://img.shields.io/badge/FRED-Macro%20Data-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Analysis-Regime%20Shifts-teal?style=flat-square" />
+      <img src="https://img.shields.io/badge/Associated-XEN%20Groups-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/FRED-Macro%20Data-teal?style=flat-square" />
       <p><b>Macroeconomic Regime Shift Intelligence</b></p>
       <ul>
-        <li>Federal Reserve (FRED) API data ingestion: interest rates, CPI inflation, yield curve, and GDP.</li>
-        <li>Quantitative identification of macroeconomic regime shifts and correlations.</li>
+        <li>Developed in association with XEN Groups; public U.S. economic indicator analysis.</li>
+        <li>Quantitative identification of regime shifts across rates, inflation, GDP, and yield curve.</li>
       </ul>
       <a href="https://github.com/usmanali-hub/Macro-Market-Intelligence"><b>Explore Repository →</b></a>
     </td>
@@ -223,6 +268,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
+### Professional Experience
+
+```markdown
+├── Co-Founder & CTO — ReplyPops (May 2026 – Present)
+│   ├── Leading AI development for cloud multi-streaming and social automation platform.
+│   ├── Designed & shipped core AI automation layer, cutting manual workflow steps by >70%.
+│   └── Directed pre-launch QA across 100+ test scenarios, resolving 30+ critical edge cases.
+│
+├── Forward Deployed Engineer — XEN Groups (Aug 2024 – Present · Remote)
+│   ├── Delivered production AI automation solutions for 5+ clients, reducing processing time by ~60%.
+│   ├── Built and integrated Python REST APIs across 10+ third-party enterprise platforms.
+│   ├── Engineered multi-step LLM agent pipelines eliminating repetitive operational workflows.
+│   └── Maintained 99%+ uptime across all deployed customer-facing automation services.
+│
+├── Data Analysis & Research Intern — EcoServants® (Aug 2025 – Dec 2025 · Remote)
+│   ├── Queried, cleaned, and managed environmental datasets using SQL.
+│   ├── Developed web-based dashboards (JavaScript, PHP) and proprietary Community Site Report system.
+│   └── Implemented geospatial logic to support field-data mapping and location environmental metrics.
+│
+├── AI Engineer Intern — GlaxIT (Jun 2024 – Sep 2024)
+│   ├── Designed, trained, and optimized ML/deep learning models for production deployments.
+│   ├── Built RAG pipelines, semantic search, and vector database integrations.
+│   └── Deployed containerized AI services with FastAPI, Pytest, and Docker.
+│
+└── Independent AI Research & Engineering (Feb 2022 – May 2026 · Remote)
+    ├── Engineered 10+ end-to-end reproducible AI/ML systems with sub-500ms API inference latency.
+    └── Developed multi-agent orchestration frameworks with structured tool execution and fallback handling.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
+
+### Education & Hackathon Honors
+
+- **Bachelor of Science — Artificial Intelligence** · HITEC University (Islamabad, Pakistan)
+- **Winner, Code Battle 2.0** — InnoNerds Hackathon
+- **Hackathon Winner** — HITEC University
+- **Technical Director** — Mega Code War 4.0 (HITEC University)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
+
 ### Licenses & Certifications
 
 | Certification | Issuing Organization | Verification |
@@ -246,23 +331,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
-### Experience & Leadership
-
-```markdown
-├── Co-Founder & CTO | ReplyPops
-│   └── Built product architecture end-to-end, driving AI automations and customer workflow execution.
-├── Technical Director | Mega Code War 4.0 (HITEC University)
-│   └── Led challenge architecture, platform stability, and programming contest operations.
-├── AI Specialist Intern | Glaxit
-│   └── Researched, implemented, and evaluated production-ready machine learning workflows and LLM pipelines.
-├── Data Analyst & Research Intern | EcoServants
-│   └── Directed quantitative data analysis, environmental metrics tracking, and business intelligence models.
-└── Workflow Automation Consultant | Freelance
-    └── Designed autonomous AI lead-scoring systems and automated CRM routing architectures using n8n.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
-
 ### Technical Notes & Practice
 
 <details>
@@ -277,19 +345,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
-### 402 Contributions in the Last Year — Live Activity & Snake
+### 404 Contributions in the Last Year — Live Activity & Snake
 
 <div align="center">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Annual%20Shipping-402%20Contributions-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="402 Contributions" />
+    <img src="https://img.shields.io/badge/Annual%20Shipping-404%20Contributions-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="404 Contributions" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Cadence-Daily%20Active%20Builder-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Active Builder" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Focus-High%20Test%20Coverage-818CF8?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Driven" />
   </p>
 
-  <!-- Snake game eating your actual 402 contributions calendar -->
+  <!-- Snake game eating your actual 404 contributions calendar -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake.svg">
@@ -327,10 +395,14 @@
 
 ### Connect & Collaborate
 
-I am actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **MLOps** roles (Remote / Hybrid / On-site). If you have an exciting AI initiative, a challenging engineering problem, or want to collaborate on open-source systems, feel free to reach out.
+I am actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **Forward Deployed / MLOps** roles (Remote / Global). If you have an exciting AI initiative, a challenging engineering problem, or want to collaborate on open-source systems, feel free to reach out.
 
 <div align="center">
 
+  <a href="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/main/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20CV-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://usmanali-hub.github.io/Ai-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
