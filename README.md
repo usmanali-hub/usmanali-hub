@@ -12,8 +12,14 @@
     <b>Architecting robust AI solutions with rigorous empirical evaluation, typed system design, and production MLOps.</b>
   </p>
 
-  <!-- Profile & Social Links -->
+  <!-- Interactive Badges Strip -->
   <p align="center">
+    <a href="https://usmanali-hub.github.io/Ai-portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <a href="https://usmanali-hub.github.io/Ai-portfolio/cv/" target="_blank">
+      <img src="https://img.shields.io/badge/Interactive%20CV-View%20Resume-7C3AED?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interactive CV" />
+    </a>
     <a href="https://www.linkedin.com/in/usman-ali-ai-engineer/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -33,19 +39,29 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### At a Glance
 
-AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval-Augmented Generation (RAG)**, and **Autonomous Agent Architectures** with production-grade MLOps.
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <p>AI Engineer specializing in <b>Large Language Models (LLMs)</b>, <b>Hybrid Retrieval-Augmented Generation (RAG)</b>, and <b>Autonomous Agent Architectures</b> with production-grade MLOps.</p>
+      <ul>
+        <li><b>Background</b>: BS in Artificial Intelligence at HITEC University; Co-founder at <b>ReplyPops</b>, with applied AI and analytics experience at <b>Glaxit</b> and <b>EcoServants</b>.</li>
+        <li><b>Core Focus</b>: Production LLM applications, dense & sparse (BM25) hybrid retrieval systems, and multi-agent workflows backed by empirical evaluation.</li>
+        <li><b>Quantitative Depth</b>: Macroeconomic regime intelligence (FRED data), financial risk metrics (drawdown, expectancy, VaR), and operational KPI analytics.</li>
+        <li><b>Engineering Rigor</b>: Type-safe architectures (Pydantic), comprehensive test coverage (Pytest), Docker containerization, and automated CI/CD pipelines.</li>
+        <li><b>Availability</b>: Actively open to AI Engineer, LLM/GenAI Engineer, and MLOps opportunities (Remote / Global).</li>
+      </ul>
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-- **Background**: BS in Artificial Intelligence at HITEC University; Co-founder at **ReplyPops**, with applied AI and analytics experience at **Glaxit** and **EcoServants**.
-- **Core Focus**: Production LLM applications, dense & sparse (BM25) hybrid retrieval systems, and multi-agent workflows backed by empirical evaluation.
-- **Quantitative Depth**: Macroeconomic regime intelligence (FRED data), financial risk metrics (drawdown, expectancy, VaR), and operational KPI analytics.
-- **Engineering Rigor**: Type-safe architectures (Pydantic), comprehensive test coverage (Pytest), Docker containerization, and automated CI/CD pipelines.
-- **Availability**: Actively open to AI Engineer, LLM/GenAI Engineer, and MLOps opportunities (Remote / Global).
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### Tech Stack & Engineering Toolkit
 
@@ -53,9 +69,9 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
 
 | Ecosystem | Tools, Frameworks & Infrastructure |
 | :--- | :--- |
-| **Generative AI & LLMs** | `LangChain` `LlamaIndex` `RAG Pipelines` `OpenAI API` `Anthropic API` `Hugging Face` `ChromaDB` `Qdrant` `Prompt Engineering` |
+| **Generative AI & LLMs** | `LangChain` `LangGraph` `LlamaIndex` `RAG Pipelines` `OpenAI API` `Anthropic API` `Hugging Face` `ChromaDB` `Pinecone` `Qdrant` `Prompt Engineering` |
 | **Machine Learning & Data** | `Python` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `DuckDB` `PostgreSQL` `SQLite` `FRED API` |
-| **APIs, Backend & Automation** | `FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `n8n Workflows` `HTML5 / CSS3 / JS` |
+| **APIs, Backend & Automation** | `FastAPI` `REST APIs` `Pydantic` `SQLAlchemy` `n8n Cloud` `HTML5 / CSS3 / JS` |
 | **DevOps, Cloud & Tooling** | `Docker` `GitHub Actions (CI/CD)` `Git` `Linux / Bash` `AWS (Agentic AI Certified)` `Pytest` |
 
 <br/>
@@ -67,7 +83,7 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### Featured Repositories & Engineering Portfolio
 
@@ -197,7 +213,7 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### Licenses & Certifications
 
@@ -220,11 +236,22 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
 | **Certificate of Completion: Market Structure & Risk Management** | Instant Funding | [Verify Credential](https://instantfunding.com) |
 | **Certificate of Completion: Market Structure & Risk Management** | Maven Trading | [Verify Credential](https://maventrading.com) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
-### GitHub Activity & Analytics
+### Live GitHub Activity & Contribution Snake
 
 <div align="center">
+
+  <!-- Contribution Grid Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- GitHub Statistics Grid -->
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="50%">
@@ -241,15 +268,23 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- Dynamic Daily Tech Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" width="85%" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### Experience & Leadership
 
 ```markdown
 ├── Co-founder | ReplyPops
 │   └── Built product architecture end-to-end, driving AI automations and customer workflow execution.
+├── Technical Director | Mega Code War 4.0 (HITEC University)
+│   └── Led challenge architecture, platform stability, and programming contest operations.
 ├── AI Specialist Intern | Glaxit
 │   └── Researched, implemented, and evaluated production-ready machine learning workflows and LLM pipelines.
 ├── Data Analyst & Research Intern | EcoServants
@@ -258,7 +293,7 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
     └── Designed autonomous AI lead-scoring systems and automated CRM routing architectures using n8n.
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### Technical Notes & Practice
 
@@ -272,7 +307,7 @@ AI Engineer specializing in **Large Language Models (LLMs)**, **Hybrid Retrieval
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
 
 ### Connect & Collaborate
 
@@ -280,6 +315,10 @@ I am actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **MLOps** r
 
 <div align="center">
 
+  <a href="https://usmanali-hub.github.io/Ai-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/usman-ali-ai-engineer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
