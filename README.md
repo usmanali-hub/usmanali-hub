@@ -37,6 +37,9 @@
     <a href="https://github.com/usmanali-hub?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-15%2B%20Projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
+    <a href="https://github.com/usmanali-hub">
+      <img src="https://img.shields.io/badge/Contributions-400%2B%20in%20Last%20Year-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="400+ Contributions" />
+    </a>
     <a href="https://komarev.com/ghpvc/?username=usmanali-hub">
       <img src="https://komarev.com/ghpvc/?username=usmanali-hub&label=PROFILE+VIEWS&style=for-the-badge&color=0284C7" alt="Profile Views" />
     </a>
@@ -247,6 +250,17 @@
 
 <div align="center">
 
+  <!-- Milestone & Shipping Frequency Pills -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Annual%20Shipping-400%2B%20Contributions-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="400+ Contributions" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Cadence-Daily%20Active%20Builder-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Active Builder" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Focus-High%20Test%20Coverage-818CF8?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Driven" />
+  </p>
+
+  <br/>
+
   <!-- Contribution Grid Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake-dark.svg">
@@ -260,7 +274,7 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=usmanali-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=usmanali-hub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
         <img src="https://streak-stats.demolab.com/?user=usmanali-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
