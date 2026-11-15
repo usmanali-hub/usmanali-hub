@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/badge/Repositories-15%2B%20Projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
     <a href="https://github.com/usmanali-hub">
-      <img src="https://img.shields.io/badge/Contributions-400%2B%20in%20Last%20Year-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="400+ Contributions" />
+      <img src="https://img.shields.io/badge/Contributions-402%20in%20Last%20Year-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="402 Contributions" />
     </a>
     <a href="https://komarev.com/ghpvc/?username=usmanali-hub">
       <img src="https://komarev.com/ghpvc/?username=usmanali-hub&label=PROFILE+VIEWS&style=for-the-badge&color=0284C7" alt="Profile Views" />
@@ -246,22 +246,50 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
-### Live GitHub Activity & Contribution Snake
+### Experience & Leadership
+
+```markdown
+├── Co-founder | ReplyPops
+│   └── Built product architecture end-to-end, driving AI automations and customer workflow execution.
+├── Technical Director | Mega Code War 4.0 (HITEC University)
+│   └── Led challenge architecture, platform stability, and programming contest operations.
+├── AI Specialist Intern | Glaxit
+│   └── Researched, implemented, and evaluated production-ready machine learning workflows and LLM pipelines.
+├── Data Analyst & Research Intern | EcoServants
+│   └── Directed quantitative data analysis, environmental metrics tracking, and business intelligence models.
+└── Workflow Automation Consultant | Freelance
+    └── Designed autonomous AI lead-scoring systems and automated CRM routing architectures using n8n.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
+
+### Technical Notes & Practice
+
+<details>
+<summary><b>View Engineering Mini-Labs & DSA Practice</b></summary>
+
+<br/>
+
+- **[`ai-engineering-notes`](https://github.com/usmanali-hub/ai-engineering-notes)**: Tested mini-labs covering typing, decorators, NumPy vectorization, pandas internals, SQL window functions, indexes, recursive CTEs, and bias-variance tradeoff diagnostics.
+- **[`dsa-practice`](https://github.com/usmanali-hub/dsa-practice)**: Clean Python implementations of algorithms and data structures with explicit time/space complexity analysis and automated unit tests.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
+
+### 402 Contributions in the Last Year — Live Activity & Snake
 
 <div align="center">
 
-  <!-- Milestone & Shipping Frequency Pills -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Annual%20Shipping-400%2B%20Contributions-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="400+ Contributions" />
+    <img src="https://img.shields.io/badge/Annual%20Shipping-402%20Contributions-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="402 Contributions" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Cadence-Daily%20Active%20Builder-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Active Builder" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Focus-High%20Test%20Coverage-818CF8?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Driven" />
   </p>
 
-  <br/>
-
-  <!-- Contribution Grid Snake Animation -->
+  <!-- Snake game eating your actual 402 contributions calendar -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/output/github-contribution-grid-snake.svg">
@@ -297,37 +325,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
-### Experience & Leadership
-
-```markdown
-├── Co-founder | ReplyPops
-│   └── Built product architecture end-to-end, driving AI automations and customer workflow execution.
-├── Technical Director | Mega Code War 4.0 (HITEC University)
-│   └── Led challenge architecture, platform stability, and programming contest operations.
-├── AI Specialist Intern | Glaxit
-│   └── Researched, implemented, and evaluated production-ready machine learning workflows and LLM pipelines.
-├── Data Analyst & Research Intern | EcoServants
-│   └── Directed quantitative data analysis, environmental metrics tracking, and business intelligence models.
-└── Workflow Automation Consultant | Freelance
-    └── Designed autonomous AI lead-scoring systems and automated CRM routing architectures using n8n.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
-
-### Technical Notes & Practice
-
-<details>
-<summary><b>View Engineering Mini-Labs & DSA Practice</b></summary>
-
-<br/>
-
-- **[`ai-engineering-notes`](https://github.com/usmanali-hub/ai-engineering-notes)**: Tested mini-labs covering typing, decorators, NumPy vectorization, pandas internals, SQL window functions, indexes, recursive CTEs, and bias-variance tradeoff diagnostics.
-- **[`dsa-practice`](https://github.com/usmanali-hub/dsa-practice)**: Clean Python implementations of algorithms and data structures with explicit time/space complexity analysis and automated unit tests.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
-
 ### Connect & Collaborate
 
 I am actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **MLOps** roles (Remote / Hybrid / On-site). If you have an exciting AI initiative, a challenging engineering problem, or want to collaborate on open-source systems, feel free to reach out.
@@ -348,7 +345,7 @@ I am actively open to **AI Engineer**, **LLM / GenAI Engineer**, and **MLOps** r
 
   <br/><br/>
 
-  <!-- Footer Gradient Wave -->
+  <!-- Footer Gradient Wave Leading Into GitHub Contribution Graph -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7C3AED,40:2563EB,75:1E293B,100:0B0F19&height=130&section=footer" width="100%" alt="Footer" />
 
 </div>
