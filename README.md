@@ -8,6 +8,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Production+LLMs+%26+RAG+Systems;Architecting+Autonomous+Multi-Agent+Workflows;End-to-End+MLOps+%7C+Docker%2C+FastAPI+%26+CI%2FCD;Quantitative+Macro+Market+%26+Trading+Risk+Analytics;Reliability+%3E+Hype%3A+Every+Pipeline+Tested+%26+Evaluated" alt="Typing SVG" />
   </a>
 
+  <!-- Ambient Moving Neural Particle Field -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/main/assets/ambient_neural_flow.svg" width="100%" alt="Ambient Neural Field" />
+  </p>
+
   <p align="center">
     <b>Architecting robust AI solutions with rigorous empirical evaluation, typed system design, and production MLOps.</b>
   </p>
@@ -39,7 +44,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### At a Glance
 
@@ -61,7 +66,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Tech Stack & Engineering Toolkit
 
@@ -83,7 +88,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Featured Repositories & Engineering Portfolio
 
@@ -213,7 +218,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Licenses & Certifications
 
@@ -236,7 +241,7 @@
 | **Certificate of Completion: Market Structure & Risk Management** | Instant Funding | [Verify Credential](https://instantfunding.com) |
 | **Certificate of Completion: Market Structure & Risk Management** | Maven Trading | [Verify Credential](https://maventrading.com) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Live GitHub Activity & Contribution Snake
 
@@ -276,7 +281,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Experience & Leadership
 
@@ -293,7 +298,7 @@
     └── Designed autonomous AI lead-scoring systems and automated CRM routing architectures using n8n.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Technical Notes & Practice
 
@@ -307,7 +312,7 @@
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
 ### Connect & Collaborate
 
