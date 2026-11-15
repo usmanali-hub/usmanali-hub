@@ -56,7 +56,7 @@
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
+      <img src="https://raw.githubusercontent.com/rzashakeri/beautify-github-profile/master/terminal.gif" width="100%" alt="Cyberpunk AI Agent Terminal Animation" />
     </td>
   </tr>
 </table>
