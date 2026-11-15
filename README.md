@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E293B,60:2563EB,100:7C3AED&height=230&section=header&text=Usman%20Ali&fontSize=50&fontColor=F8FAFC&fontAlignY=36&desc=Co-Founder%20%26%20CTO%20%40%20ReplyPops%20%7C%20AI%20Engineer%20%7C%20ML%20%26%20Deep%20Learning%20%7C%20Forward%20Deployed&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Usman Ali Banner" />
+  <img src="https://raw.githubusercontent.com/usmanali-hub/usmanali-hub/main/assets/banner.svg" width="100%" alt="Usman Ali Banner" />
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/usmanali-hub">
