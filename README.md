@@ -312,22 +312,46 @@
 
 | Certification | Issuing Organization | Verification |
 | :--- | :--- | :--- |
+| **AI Agents Fundamentals** | Hugging Face | [Verify Credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/usmanali-hub/2026-11-16.png) |
+| **Introduction to LangGraph - Python** | LangChain | [Verify Credential](https://academy.langchain.com/certificates/yvod8q0con) |
 | **Introduction to Agentic AI on AWS** | Amazon Web Services (AWS) | [Verify Credential](https://www.linkedin.com/in/usman-ali-ai-engineer/overlay/Certifications/1508860802/treasury/?profileId=ACoAAGDbKSIBRPt8lFdoLA1zEMCtoDg-xx6R6BI) |
+| **Building applications with GitHub Copilot agent mode** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/49BG6LZK?sharingId=1790FCD9E1044140) |
+| **Get started with generative AI and agents in Azure** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/973Y8QSU?sharingId=1790FCD9E1044140) |
+| **Develop a generative AI chat app with Microsoft Foundry** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/ZTVBE492?sharingId=1790FCD9E1044140) |
+| **Get started with voice agents in Microsoft Foundry** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/B3JCLHAD?sharingId=1790FCD9E1044140) |
+| **Get started with Microsoft Foundry IQ** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/973YNXVU?sharingId=1790FCD9E1044140) |
+| **Get started with AI applications and agents on Azure** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/HVW7YMT8?sharingId=1790FCD9E1044140) |
+| **GitHub Copilot Fundamentals Part 1 of 2** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/YKAEE2CR?sharingId=1790FCD9E1044140) |
+| **GitHub Copilot Fundamentals Part 2 of 2** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/QGPS522E?sharingId=1790FCD9E1044140) |
+| **Using GitHub Copilot with JavaScript** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/UZHRAT43?sharingId=1790FCD9E1044140) |
+| **Developer use cases for AI with GitHub Copilot** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/E645S2BP?sharingId=1790FCD9E1044140) |
+| **Management and customization considerations with GitHub Copilot** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/973YXKSU?sharingId=1790FCD9E1044140) |
+| **GitHub Copilot Across Environments: IDE, Chat, CLI &amp; App** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/8MNZ746W?sharingId=1790FCD9E1044140) |
+| **Using advanced GitHub Copilot features** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/NEXV2MPF?sharingId=1790FCD9E1044140) |
+| **Introduction to Copilot Spaces** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/ZTVBKE52?sharingId=1790FCD9E1044140) |
+| **Introduction to prompt engineering with GitHub Copilot** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/FPYM23SX?sharingId=1790FCD9E1044140) |
+| **Introduction to GitHub Copilot** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/8MNZAKSW?sharingId=1790FCD9E1044140) |
+| **Responsible AI with GitHub Copilot** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/UZHRXYA3?sharingId=1790FCD9E1044140) |
+| **Introduction to Git** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/328AA2NH?sharingId=1790FCD9E1044140) |
+| **Get started with AI-powered information extraction in Azure** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/PCKLTKK4?sharingId=1790FCD9E1044140) |
+| **Get started with computer vision in Azure** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/YKAE28TR?sharingId=1790FCD9E1044140) |
+| **Get started with speech in Azure** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/HVW7XJQ8?sharingId=1790FCD9E1044140) |
+| **Get started with text analysis in Azure** | Microsoft | [Verify Credential](https://learn.microsoft.com/api/achievements/share/en-us/UsmanAli-1593/8MNZYP9W?sharingId=1790FCD9E1044140) |
 | **AI Fundamentals: Foundations for Understanding AI** | IBM | [Verify Credential](https://www.credly.com/badges/578872e8-b716-4ce9-8f52-9d6237ad8322/linked_in_profile) |
 | **Intro to Deep Learning** | Kaggle | [Verify Credential](https://www.kaggle.com/learn/certification/usmanaliiii/intro-to-deep-learning) |
 | **Intermediate Machine Learning** | Kaggle | [Verify Credential](https://www.kaggle.com/learn/certification/usmanaliiii/intermediate-machine-learning) |
 | **Intro to Machine Learning** | Kaggle | [Verify Credential](https://www.kaggle.com/learn/certification/usmanaliiii/intro-to-machine-learning) |
 | **Google Advanced Data Analytics Capstone** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/3WIUHHRHSZL5) |
+| **The Nuts and Bolts of Machine Learning** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/DC0SH9ZL9DEG) |
+| **Introduction to AI** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/8KF6DZ4K8TV9) |
+| **Stay Ahead of the AI Curve** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/NFITPRDC6E0H) |
 | **Maximize Productivity With AI Tools** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/FL3PTWE6IKSV) |
 | **Use AI Responsibly** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/LUED8TRGU65K) |
 | **Discover the Art of Prompting** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/YB471Q67744M) |
-| **The Nuts and Bolts of Machine Learning** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/DC0SH9ZL9DEG) |
-| **Stay Ahead of the AI Curve** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/NFITPRDC6E0H) |
-| **Introduction to AI** | Google | [Verify Credential](https://www.coursera.org/account/accomplishments/records/8KF6DZ4K8TV9) |
 | **Start Writing Prompts like a Pro** | Coursera | [Verify Credential](https://www.coursera.org/account/accomplishments/records/9W9GDR5M93VX) |
 | **Foundations of Project Management** | Coursera | [Verify Credential](https://www.coursera.org/account/accomplishments/records/ZZBQCCGNVT5W) |
-| **Certificate of Completion: Market Structure & Risk Management** | Instant Funding | [Verify Credential](https://instantfunding.com) |
-| **Certificate of Completion: Market Structure & Risk Management** | Maven Trading | [Verify Credential](https://maventrading.com) |
+| **Certificate of Completion — Evaluation** | Instant Funding | [Verify Credential](https://instantfunding.com) |
+| **Certificate of Completion — Evaluation** | Maven Trading | [Verify Credential](https://maventrading.com) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,50:3B82F6,100:7C3AED&height=40&section=header" width="100%" />
 
